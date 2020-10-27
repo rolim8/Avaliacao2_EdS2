@@ -1,1 +1,3 @@
-# Avalia-o-2---Engenharia-de-Software-2
+# Avaliação de Engenharia de Software
+Orlando Leite Rolim Filho
+Francisco Matheus Santos Pinto
